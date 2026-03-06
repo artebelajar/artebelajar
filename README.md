@@ -31,8 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=artebelajar&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artebelajar&radius=0&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contibute%20On%20Github" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=artebelajar&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artebelajar&radius=0&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contibute%20On%20Github" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
