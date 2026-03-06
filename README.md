@@ -30,14 +30,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artebelajar/artebelajar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artebelajar/artebelajar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/artebelajar/artebelajar/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=artebelajar&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=artebelajar&radius=0&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contibute%20On%20Github" height="10" alt="activity-graph graph"  />
@@ -90,10 +82,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/artebelajar/artebelajar/output/snake.svg" alt="Snake animation" />
 
 ###
 
