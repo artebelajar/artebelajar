@@ -12,7 +12,14 @@
 
 ###
 
-<p align="left">I'am a<br>| Programmer Begginer  | Student of PPQIT Al-Mahir<br>---------------------------------------------------------<br>Skill:  <br>- Programming.  <br>- Public Speaking<br>- etc.<br>---------------------------------------------------------</p>
+<p align="left">I'am a<br>
+| Programmer Begginer | Student of PPQIT Al-Mahir<br>
+---------------------------------------------------------<br>
+Skill:  <br>
+- Programming.  <br>
+- Public Speaking<br>
+- etc.<br>
+---------------------------------------------------------</p>
 
 ###
 
